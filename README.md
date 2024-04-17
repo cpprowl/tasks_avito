@@ -2,11 +2,11 @@
 
 ## 1_task: Found bugs on page
 
-Баги представленны tasks_avito/task_1/found_bug_on_page.md
+[Найденные баги на странице](found_bug_on_page.md)
 
 ## 2_task: Test-cases for count in page and autotests-screenshot (pytest + playwright)
 
-Тест-кейсы представлены tasks_avito/task_2/TESTCASES.md
+[Тест кейсы](TESTCASES.md)
 
 ### 1 шаг:
 Если требуется создайте виртуальное окружение
