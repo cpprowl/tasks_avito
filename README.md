@@ -16,6 +16,7 @@
 
 ### 3 шаг:
 pip install -r requirements.txt
+
 Устанановите необходимые библиотеки из файла requirements.txt
 
 ### 4 шаг:
